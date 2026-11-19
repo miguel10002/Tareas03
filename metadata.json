@@ -1,0 +1,6 @@
+{
+  "name": "Útiles Express - Sistema de Gestión de Ventas e Inventario",
+  "description": "Sistema administrativo interno de punto de venta (POS) e inventario para tienda de útiles de escritorio y papelería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
